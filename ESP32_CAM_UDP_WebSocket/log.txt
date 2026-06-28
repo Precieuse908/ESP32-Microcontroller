@@ -1,0 +1,23 @@
+C:\Users\user>ipconfig
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::e7d5:aa94:dadd:bf80%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.3
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+-----------------------
+PS C:\Users\user> pip install opencv-python websockets numpy
+Collecting opencv-python
+  Downloading opencv_python-4.13.0.92-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Collecting websockets
+  Downloading websockets-16.0-cp314-cp314-win_amd64.whl.metadata (7.0 kB)
+Requirement already satisfied: numpy in C:\Python314\Lib\site-packages (2.4.6)
+Downloading opencv_python-4.13.0.92-cp37-abi3-win_amd64.whl (40.2 MB)
+   收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收 40.2/40.2 MB 1.7 MB/s  0:00:23
+Downloading websockets-16.0-cp314-cp314-win_amd64.whl (178 kB)
+Installing collected packages: websockets, opencv-python
+Successfully installed opencv-python-4.13.0.92 websockets-16.0
+
+[notice] A new release of pip is available: 26.0.1 -> 26.1.1
+[notice] To update, run: python.exe -m pip install --upgrade pip

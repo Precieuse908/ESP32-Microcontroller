@@ -1,0 +1,6 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\user> python esp32cam_receiver.py --port 12345 --ws ws://192.168.0.9:8080
